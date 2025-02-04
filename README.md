@@ -4,6 +4,9 @@
 ## user instruction:
 ## How to clone and use this project
 Install go Lang on your device:- https://go.dev/doc/install
+
 clone this project to your local machine.
+
 cd to any of the directory.
+
 run: go run ./.go
